@@ -14,7 +14,6 @@ public class StudentManagementSystemApplication implements CommandLineRunner{
 	public static void main(String[] args) {
 		SpringApplication.run(StudentManagementSystemApplication.class, args);
 	}
-
 	@Autowired
 	private StudentRepository studentRepository;
 	
