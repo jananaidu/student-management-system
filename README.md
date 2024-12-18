@@ -1,6 +1,6 @@
 
 
-student-management-system using spring boot application
+# student-management-system using spring boot application
 
-# kayala janardhana
+kayala janardhana
 
