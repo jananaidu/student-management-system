@@ -2,7 +2,7 @@
 
 # Project: student-management-system using spring boot application
 
-# The Student Management System is a web-based application designed to efficiently manage student information, including their personal details, enrolled courses, and academic performance. Built using Java 16, Spring Boot, and Spring MVC, the system ensures smooth interaction between users and the database. It leverages Spring Data JPA (Hibernate) for seamless database operations with MySQL as the backend database. The front-end is powered by Thymeleaf, providing dynamic, user-friendly web pages. This project offers features like student registration, course enrollment, grade tracking, and admin functionalities, making it a comprehensive solution for managing student data.
+The Student Management System is a web-based application designed to efficiently manage student information, including their personal details, enrolled courses, and academic performance. Built using Java 16, Spring Boot, and Spring MVC, the system ensures smooth interaction between users and the database. It leverages Spring Data JPA (Hibernate) for seamless database operations with MySQL as the backend database. The front-end is powered by Thymeleaf, providing dynamic, user-friendly web pages. This project offers features like student registration, course enrollment, grade tracking, and admin functionalities, making it a comprehensive solution for managing student data.
 
 The **Student Management System** (SMS) you described sounds like a comprehensive web-based application designed to streamline the management of student information in educational institutions. Here's a more detailed breakdown of the components and features of the system:
 
