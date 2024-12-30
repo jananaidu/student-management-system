@@ -2,12 +2,12 @@
 
 # Project: student-management-system using spring boot application
 
-#Abstract:
+# Abstract:
 The Student Management System (SMS) is a web-based application designed to efficiently manage student-related data in educational institutions. It facilitates the registration of students, enrollment in courses, tracking of academic performance, and administration of user roles. The system is built using Java 16, Spring Boot, and Spring MVC, ensuring a robust and scalable backend. The application uses Spring Data JPA (Hibernate) for seamless interactions with the MySQL database, storing critical information such as student details, course records, and grades.
 The front-end is powered by Thymeleaf, providing dynamic and responsive web pages that offer an intuitive user experience. The SMS supports multiple user roles, including students who can register, enroll in courses, and track grades, and admins who can manage students, courses, and grades.
 This system enhances the efficiency of managing student data by automating key administrative tasks and ensuring data integrity. It is designed to be scalable, making it adaptable to future expansions, such as adding new features or integrating additional modules. Overall, the Student Management System is a comprehensive solution that simplifies and streamlines the management of student information and academic operations.
 
-#Introduction:
+# Introduction:
 The Student Management System (SMS) is an advanced web-based application designed to manage and streamline various aspects of student data in educational institutions. With the growing complexity of managing student records, courses, grades, and related academic activities, institutions need an efficient and reliable system to handle such tasks. SMS provides a user-friendly platform for both students and administrators to interact with the system in a seamless and efficient manner.
 This system allows students to register their personal information, enroll in courses, track their academic performance, and update their profiles. Administrators, on the other hand, can manage student records, courses, grades, and generate reports. By automating many of the routine tasks associated with managing student data, the SMS reduces the workload of administrative staff and ensures accurate, up-to-date information.
 Developed using Java 16, Spring Boot, and Spring MVC, the application is built to provide high performance, scalability, and maintainability. The backend uses Spring Data JPA (Hibernate) to manage interactions with a MySQL database, ensuring efficient storage and retrieval of student-related data. The frontend is powered by Thymeleaf, which delivers dynamic and responsive user interfaces.
